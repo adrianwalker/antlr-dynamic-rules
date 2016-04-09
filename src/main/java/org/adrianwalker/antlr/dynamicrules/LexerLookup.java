@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 import java.util.logging.Logger;
-import static org.adrianwalker.hscic.antlr.dynamicrules.DynamicRulesParser.ruleNames;
+import static org.adrianwalker.antlr.dynamicrules.DynamicRulesParser.ruleNames;
 import org.antlr.v4.runtime.CharStream;
 
 public enum LexerLookup {
